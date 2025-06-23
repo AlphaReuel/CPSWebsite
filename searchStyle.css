@@ -1,5 +1,5 @@
 body {
-    background-image: url('background.jpeg');
+    background-image: url('background2.jpeg');
     background-repeat: repeat-y;
     background-size: cover;
     background-color: black;
@@ -23,7 +23,7 @@ input[type="text"] {
     height: 18px;
     padding: 10px;
     margin: 10px 0;
-    border: 3px solid red;
+    border: 3px solid Blue;
     border-radius: 100px;
     background-color: transparent;
     color: white;
@@ -36,7 +36,7 @@ input::placeholder {
 button {
     width: 100px;
     height: 40px;
-    background-color: red;
+    background-color: Blue;
     color: white;
     border: none;
     border-radius: 100px;
