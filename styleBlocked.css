@@ -1,0 +1,21 @@
+/*-------------------Styles for blockedPage--------------------*/
+
+body {
+    background-color: red;
+}
+
+.BlockedHeader {
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: nowrap;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    text-align: center; /* Add this line to center align the h1 */
+}
+
